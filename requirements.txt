@@ -1,0 +1,9 @@
+google-generativeai
+streamlit
+Pillow
+python-dotenv
+requests
+plotly
+streamlit-lottie
+
+-e .
